@@ -27,9 +27,6 @@ Input Variables
   your RDS instance.
 - `subnet_az1` - The VPC subnet ID for AZ1
 - `subnet_az2` - The VPC subnet ID for AZ2
-- `aws_access_key`
-- `aws_secret_key`
-- `aws_region`
 
 Outputs
 -------
