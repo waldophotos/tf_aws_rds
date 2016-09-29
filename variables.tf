@@ -43,6 +43,7 @@ variable "database_name" {
 variable "database_user" {}
 variable "database_password" {}
 
+variable "backup_retention_period" { default = 0 }
 variable "rds_security_group_id" {}
 
 variable "db_parameter_group" {
